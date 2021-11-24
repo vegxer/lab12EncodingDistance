@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29613.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "lab12EncodingDistance", "lab12EncodingDistance\lab12EncodingDistance.csproj", "{A12FF268-7944-441A-8EF6-7EF07236C375}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A12FF268-7944-441A-8EF6-7EF07236C375}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A12FF268-7944-441A-8EF6-7EF07236C375}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A12FF268-7944-441A-8EF6-7EF07236C375}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A12FF268-7944-441A-8EF6-7EF07236C375}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7B879E3E-2C24-4440-A1DA-0A62820DDB6C}
+	EndGlobalSection
+EndGlobal
